@@ -1,0 +1,22 @@
+table {
+    width: 41%;
+}
+.bouton {
+    border-color: black;
+    background-color : white;
+}
+.gauche {
+    text-align: left;
+}
+.droite {
+    text-align: right;
+}
+.icone {
+    width: 30px;
+    vertical-align:top;
+}
+.titre {
+    text-align: left;
+}
+
+    
